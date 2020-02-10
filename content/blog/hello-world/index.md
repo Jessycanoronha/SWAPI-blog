@@ -1,22 +1,19 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello world
+date: "2020-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Então....esse é o primeiro dia do desafio da b2w para dev front-end. 
+O primeiro desafio foi escolher a stack. Pensei em usar vue de início, mas como sugestão do desafio 
+resolvi usar react. O meu conhecimento da biblioteca é muito pouco, mas to me esforçando.
+To surpresa comig mesma haha, mas acho que não existiria Jéssyca sem desafios.
+Usei react, usei o [boilerplate](https://pt.stackoverflow.com/questions/10575/o-que-%C3%A9-boilerplate-code), que pesquisei no stack overflow haha.
+React-router para fazer as rotas das páginas e o axios para consumir minha api, ahh...um pouquinho de jquery também.
+A playlist nesse momento ao som de ["Ninguém"(L7nnon e MVBill )](https://www.youtube.com/watch?v=VUnM2o1KVKE), to nessa vibe.
 
-I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Vamo que vamo💁‍♀️💁‍♀️💁‍♀️ e não abaixo a cabeça pra ninguém..🎶🎶
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
