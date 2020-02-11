@@ -1,13 +1,10 @@
+title: Começando os dias de luta!
+date: "2020-06-06T23:46:37.121Z"
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
----
 
-Wow! I love blogging so much already.
+Wow! To programando direto, pensei em mudar de stack, mas sou teimosa e quero ir até o fim rs.
+O app tá começando a tomar forma, tive a ideia de fazer protótipos de baixa e alta fidelidade. Fiz os de baixa fidelidade, agora falta desenvolver meu layout no figma rs(olha ela a aspirante a ux/ui design haha). Programei até 00h na noite passada, mas vamos continuando.
+Ainda ao som de L7, agora vamos com treinado.
+Tô aqui lembrando do vídeo do Kobe e pensando em que eu posso melhorar. Mas to feliz com minha evolução.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+...perguntaram se eu to bem, sinceramente eu to impossível🎶🎶🎶.
